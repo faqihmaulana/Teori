@@ -1,0 +1,19 @@
+ nomer 1
+ public static void main(String[] args) {
+        Node root = null;
+        root = insert(root,B 5376 BY);
+        insert(root,G 5647 GE);
+        insert(root,H 6384 HK);
+        insert(root,AD 6536 ZA);
+        insert(root,T 6538 AR);
+        insert(root,D 7362 SS);
+        insert(root,R 8824 DK);
+        inorder(root);
+    }
+}
+Nomer 2
+public static void main(String[] args) {
+    int [] dataArray = {2,18,1,0,56,74,98,34,12};
+    int [] dataArray =length;
+    System.out.println("""Before sorting array elements are -/s""");
+}
